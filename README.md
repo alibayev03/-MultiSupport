@@ -9,6 +9,8 @@ MultiSupport — это мощный Telegram-бот с поддержкой м�
 
 ---
 
+На видео показано что да как)
+
 [![Watch the video](https://img.youtube.com/vi/yrpeFaVVW08/0.jpg)](https://youtu.be/yrpeFaVVW08)
 
 
