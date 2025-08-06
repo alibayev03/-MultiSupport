@@ -1,6 +1,6 @@
 # 🤖 MultiSupport – Telegram Bot for Smart Requests
 
-MultiSupport — это мощный Telegram-бот с поддержкой мультиязычности (6 языков), фото-заявками, админ-панелью и гибкой логикой для приёма заявок от пользователей.
+MultiSupport — это мощный Telegram-бот с поддержкой мультиязычности (7 языков), фото-заявками, админ-панелью и гибкой логикой для приёма заявок от пользователей.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/alibayev03/-MultiSupport?color=blue&style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/alibayev03/-MultiSupport)
